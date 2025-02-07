@@ -19,7 +19,7 @@ O repositório está organizado por capítulos, seguindo a estrutura do livro. C
 - **Exemplos práticos**: Códigos, simulações e experimentos que ilustram a teoria.
 
 Aqui está a estrutura de pastas:
-
+```
  Redes-de-computadores-e-a-internet/
 ├── Capitulo-1/            # Introdução às Redes e à Internet
 │   ├── Resumo.md          # Resumo teórico
@@ -32,7 +32,7 @@ Aqui está a estrutura de pastas:
 └── Projetos/              # Projetos que integram múltiplos conceitos
 ├── Chat-TCP/              # Exemplo: Chat usando TCP
 └── Analisador-Pacotes/    # Exemplo: Analisador de pacotes com Python
-
+```
 ## 🛠 Ferramentas Utilizadas
 
 ---
