@@ -20,18 +20,18 @@ O repositório está organizado por capítulos, seguindo a estrutura do livro. C
 
 Aqui está a estrutura de pastas:
 
-> Redes-de-computadores-e-a-internet/
-> ├── Capitulo-1/            # Introdução às Redes e à Internet
-> │   ├── Resumo.md          # Resumo teórico
-> │   ├── Exercicios/        # Soluções dos exercícios
-> │   └── Exemplos/          # Exemplos práticos
-> ├── Capitulo-2/            # Camada de Aplicação
-> │   ├── Resumo.md
-> │   ├── Exercicios/
-> │   └── Exemplos/
-> └── Projetos/              # Projetos que integram múltiplos conceitos
-> ├── Chat-TCP/          # Exemplo: Chat usando TCP
-> └── Analisador-Pacotes/ # Exemplo: Analisador de pacotes com Python
+ Redes-de-computadores-e-a-internet/
+ ├── Capitulo-1/            # Introdução às Redes e à Internet
+ │   ├── Resumo.md          # Resumo teórico
+ │   ├── Exercicios/        # Soluções dos exercícios
+ │   └── Exemplos/          # Exemplos práticos
+ ├── Capitulo-2/            # Camada de Aplicação
+ │   ├── Resumo.md
+ │   ├── Exercicios/
+ │   └── Exemplos/
+ └── Projetos/              # Projetos que integram múltiplos conceitos
+ ├── Chat-TCP/              # Exemplo: Chat usando TCP
+ └── Analisador-Pacotes/    # Exemplo: Analisador de pacotes com Python
 
 ## 🛠 Ferramentas Utilizadas
 
@@ -89,5 +89,5 @@ Este projeto está licenciado sob a licença **MIT**. Consulte o arquivo [LICENS
 ## 👨‍💻 Autor
 
 Feito com ❤️ por [Marcos Dhonatha](https://github.com/marcosdhonatha).
-Conecte-se comigo no [Instagram](https://instagram.com/marcos-dhonatha/) ou me envie um e-mail: marcosdhonatha@dcc.ufmg.br 
+Conecte-se comigo no [Instagram](https://instagram.com/marcos.dhonatha/) ou me envie um e-mail: marcosdhonatha@dcc.ufmg.br 
 
